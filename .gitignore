@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environment
+.venv/
+
+# VS Code
+.vscode/
+
+# Bytecode / cache
+*.pytest_cache/
+.cache/
+
+# Environment / config
+.env
+
+# Docker
+*.log
